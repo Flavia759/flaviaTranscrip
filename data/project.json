@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "Flavia759",
+    "is_private": false,
+    "title": "Perspectivas – El caso de Miriam García y la búsqueda de desaparecidos en Coahuila – 21/5/17",
+    "description": "Este video es un análisis sobre la creación de objetos virtuales, usando como ejemplo una moneda de mosaica. Luego, se aborda un caso real de desapariciones en Coahuila, México, con la participación de familiares de personas desaparecidas y la abogada Arianna García de la organización Familias Unidas. Se relata la desaparición de cuatro personas en 2010, su presunto rescate por parte de la Marina, y la posterior pérdida de seguimiento por parte de las autoridades. Se denuncian múltiples irregularidades, falta de información clara, negligencia e impunidad por parte de instituciones como la PGR y la Marina. Además, se menciona la dificultad para localizar a los desaparecidos y la confusión generada por información errónea o incompleta, incluidas fotografías difundidas en varios países. El video concluye con un llamado a la sociedad para apoyar a las familias y exigir justicia, así como a las autoridades para mejorar sus procesos y coordinación..",
+    "language": "en",
+    "slug": "flaviaTranscrip",
+    "creator": "Flavia759",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-12-23T21:29:42.875Z",
+    "updated_at": "2025-12-23T21:29:42.875Z"
   }
 }
